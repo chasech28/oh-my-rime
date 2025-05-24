@@ -1,0 +1,3 @@
+patch:
+  # 选择自定义词典
+  translator/dictionary: double_pinyin.custom
